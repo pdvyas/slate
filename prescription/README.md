@@ -10,6 +10,7 @@ Inspiration
 My mother got a tennis elbow and so I took her to Dr. Tushar Mankand. He had this software which I guess had a feature of writing prescriptions also but it didn't have mom's record and so to add it ( so as to make the prescription ), it took him 15~20 clicks. Finally the prescription was made the old fashion way.
 
 Now, before the computer thing, it was so simple:
+
 * There is this pad on the table
 * Write the patient's name, age , diagnosis and the medicines.
 * Tear it off the page, put it in the file
