@@ -1,8 +1,7 @@
-
 Initial Thoughts
 ================
 
-This webapp will be a re-placement for the "Prescription pad" on the doctor's desk. The app may store other info like the data of patients for which the patients for which the prescriptions were made. Also, if required one can also list the history of a patients ( enlist all the prescriptions for a patient).
+This webapp will be a re-placement for the "Prescription pad" on the doctor's desk. The app may store other info like the data of patients for whom the patients for which the prescriptions were made. Also, if required one can also list the history of a patient ( enlist all the prescriptions for a patient).
 
 All this doesn't have to be complicated. The major screen will be the prescription screen. The UI has to be clean and user centric not computer centric.
 
